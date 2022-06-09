@@ -5,5 +5,7 @@
 <h1>Install</h1>
 
 <code> 
-
+  git clone 
+  cd 
+  
 </code>
