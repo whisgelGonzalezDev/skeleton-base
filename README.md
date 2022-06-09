@@ -5,7 +5,8 @@
 <h1>Install</h1>
 
 <code> 
-  git clone 
-  cd 
-  
+  git clone <br>
+  cd carpeta proyecto <br>
+  npm install <br>
+  ng serve -o <br>
 </code>
