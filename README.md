@@ -5,10 +5,13 @@
 <h2>Install</h2>
 <hr>
 <code> 
-  <p>git clone</p> 
-  <p>cd carpeta proyecto</p> 
-  <p>npm install </p>
-  <p>ng serve -o</p> 
+git clone 
 </code>
+<code>
+    cd carpeta proyecto 
+</code>
+
+npm install 
+ng serve -o 
 <hr>
 <h2>Pluggins</h2>
