@@ -1,17 +1,21 @@
 <h1> Front TEP </h1>
 
-<h4 >Este aplicativo fue creado bajo el uso del framework de Angular en su ultima version (13)</h4>
-<hr>
+<h4>Este aplicativo fue creado bajo el uso del framework de Angular en su ultima version (13)</h4>
 <h2>Install</h2>
-<hr>
 <code> 
 git clone 
-</code>
+</code> <br>
 <code>
     cd carpeta proyecto 
-</code>
+</code><br>
+<code>
 
-npm install 
-ng serve -o 
-<hr>
-<h2>Pluggins</h2>
+    npm install 
+</code>
+<code>
+
+    ng serve -o 
+</code>
+<h2>Posibles alertas</h2>
+-Bootstrap color-adjust deprecated
+<img src="https://lh3.googleusercontent.com/3Ie8bpaBWllERpU_rOjOh74DgKyDx0Jx1fKDnbv061SG2kNtZn-2qJ3tt_kU4EhDXRvj=s170" alt="Error/bootstrap">
